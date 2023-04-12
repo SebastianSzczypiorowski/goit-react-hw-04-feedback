@@ -3,6 +3,8 @@ import FeedbackOptions from './FeedbackOptions';
 import Statistics from './Statistics';
 import Section from './Section';
 
+// 1
+
 const FeedbackApp = () => {
   const [feedback, setFeedback] = useState({
     good: 0,
